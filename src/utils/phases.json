@@ -1,0 +1,62 @@
+[
+  {
+    "phrase": "La programación actual es una carrera entre ingenieros de software que se esfuerzan por crear programas mejores y más grandes a prueba de idiotas, y el universo que intenta crear idiotas más grandes y mejores. Hasta ahora, el universo está ganando",
+    "author": "Rick Cook"
+  },
+  {
+    "phrase": "Lisp no es un lenguaje, es un material de construcción",
+    "author": "Alan Kay"
+  },
+  {
+    "phrase": "Caminar sobre el agua y desarrollar software a partir de una especificación es fácil si ambos están congelados",
+    "author": "Eduardo V Bérard"
+  },
+  {
+    "phrase": "Siempre he deseado que mi computadora fuera tan fácil de usar como mi teléfono; mi deseo se ha hecho realidad porque ya no sé cómo usar mi teléfono.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "phrase": "Aprender a programar no tiene más que ver con diseñar software interactivo que aprender a escribir con el tacto tiene que ver con escribir poesía",
+    "author": "Ted Nelson"
+  },
+  {
+    "phrase": "Los mejores programadores no son ni marginalmente mejores que los simplemente buenos. Son un orden de magnitud mejores, medidos por cualquier estándar: creatividad conceptual, velocidad, ingenio de diseño o capacidad de resolución de problemas.",
+    "author": "Randall E. Stross"
+  },
+  {
+    "phrase": "¡No me importa si funciona en su máquina! ¡No enviaremos su máquina!.",
+    "author": "Vidiu Platón"
+  },
+  {
+    "phrase": "La depuración es dos veces más difícil que escribir el código en primer lugar. Por lo tanto, si escribes el código lo más inteligentemente posible, por definición no eres lo suficientemente inteligente como para depurarlo.",
+    "author": "Brian W. Kernighan."
+  },
+  {
+    "phrase": "La mayoría de los buenos programadores programan no porque esperen que les paguen o la adulación del público, sino porque es divertido programar.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "phrase": "Codifica siempre como si el tipo que terminara manteniendo tu código fuera un psicópata violento que supiera dónde vives.",
+    "author": "Martín Golding"
+  },
+  {
+    "phrase": "Hay dos formas de construir un diseño de software. Una forma es hacerlo tan simple que obviamente no haya deficiencias. Y la otra manera es hacerlo tan complicado que no haya deficiencias obvias.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "phrase": "En teoría, la teoría y la práctica son lo mismo. En la práctica, no lo son.",
+    "author": "Yoggi Berra"
+  },
+  {
+    "phrase": "Hablar es facil. Muéstrame el código.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "phrase": "La perfección [en el diseño] se logra, no cuando no hay nada más que agregar, sino cuando no queda nada que quitar",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "phrase": "No se puede tener un gran software sin un gran equipo, y la mayoría de los equipos de software se comportan como familias disfuncionales",
+    "author": "Jim McCarthy"
+  }
+]
